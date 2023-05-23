@@ -1,1 +1,1 @@
-# prime-numbers-identifier
+# prime-numbers-statistical-analysis
